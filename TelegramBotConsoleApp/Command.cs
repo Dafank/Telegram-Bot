@@ -7,13 +7,18 @@ using Telegram.Bot.Types;
 
 namespace TelegramBotConsoleApp
 {
+    /// <summary>
+    /// Base class for all commands and has all needed properties for future command
+    /// <code Cointains(string command)> Check is a command exist</code>
+    /// </summary>
     public abstract class Command
     {
         public abstract string Name { get; }
-        public abstract string[] Args { get; set; }
+        public abstract string Example { get; }
+        public abstract string[] Args { get; set; } 
         public abstract void Execute(Message message, TelegramBotClient client);
-        public abstract void OnError(Message message, TelegramBotClient client);
         public abstract int CountArgs { get; }
+        public virtual string Info { get; } = null;
         public bool Cointains(string command)
         {
             var splits = command.Split(' ');

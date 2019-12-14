@@ -8,7 +8,7 @@ namespace TelegramBotConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Bot bot = new Bot();
             bot.BotInit();

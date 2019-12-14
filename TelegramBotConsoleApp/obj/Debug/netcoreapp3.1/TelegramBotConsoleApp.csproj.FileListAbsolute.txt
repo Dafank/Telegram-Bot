@@ -1,0 +1,14 @@
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.exe
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.AssemblyInfo.cs
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.deps.json
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.runtimeconfig.json
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.runtimeconfig.dev.json
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.dll
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\TelegramBotConsoleApp.pdb
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.csproj.CopyComplete
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.dll
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.pdb
+C:\Users\Доктор Дрончік\source\repos\TelegramBotConsoleApp\TelegramBotConsoleApp\obj\Debug\netcoreapp3.1\TelegramBotConsoleApp.csprojAssemblyReference.cache
